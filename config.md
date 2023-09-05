@@ -1,11 +1,13 @@
 <!--
 Add here global page variables to use throughout your website.
--->
 +++
 author = "Septimia Zenobia"
-mintoclevel = 2
+mintoclevel = 2  -->
 
-# uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
+@def author = "Emma Martin aka Cutie"
+@def prepath = "adventures"
+
+<!-- # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
 # please do read the docs on deployment to avoid common issues: https://franklinjl.org/workflow/deploy/#deploying_your_website
 # prepath = "yourproject"
 
@@ -20,7 +22,7 @@ generate_rss = true
 website_title = "Franklin Template"
 website_descr = "Example website using Franklin"
 website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
-+++
++++ -->
 
 <!--
 Add here global latex commands to use throughout your pages.
